@@ -13,17 +13,17 @@ body {
     margin: 0;
 }
 
-/* .container {
+.container {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
     max-width: 400px;
-} */
-/* cuadritos */
-/* .square {
-    background-color: #a12c2c;
-    box-shadow: 0 0 2px rgb(74, 192, 28);
+}
+
+.square {
+    background-color: #1d1d1d;
+    box-shadow: 0 0 2px #000;
     height: 16px;
     width: 16px;
     margin: 2px;
@@ -32,4 +32,4 @@ body {
 
 .square:hover {
     transition-duration: 0s;
-} */
+}
